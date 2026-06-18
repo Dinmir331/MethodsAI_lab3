@@ -245,9 +245,7 @@
 
 ### Графики этапа 4
 
-![SMOTE: сравнение классов](plots/stage4_smote_predictions.png)
-![ADASYN: сравнение классов](plots/stage4_adasyn_predictions.png)
-
+![SMOTE и ADASYN: сравнение классов](plots/stage4_smote_adasyn_predictions.png)
 
 ### Выводы по этапу 4
 
